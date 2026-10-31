@@ -41,7 +41,7 @@ Each concern lives in one file, so you can work on indicators, news, the model o
 ## Quick start
 Requires Python 3.10+.
 ```bash
-git clone https://github.com/<you>/equity-analysis-platform.git
+git clone https://github.com/<regularaswin007>/equity-analysis-platform.git
 cd equity-analysis-platform
 python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
