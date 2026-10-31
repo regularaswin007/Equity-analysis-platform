@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn>=0.29
+yfinance>=0.2.54
+pandas>=2.0
+feedparser>=6.0
+transformers>=4.40
+torch>=2.2
